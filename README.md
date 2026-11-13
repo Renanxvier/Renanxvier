@@ -8,9 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/renanxcarmo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
->
----
-
+    
 ### 🚀 Sobre Mim
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na UCB (Previsão de conclusão: Julho de 2028).
 * 💻 Experiência prática no desenvolvimento de sistemas web, automações e jogos 2D estratégicos.
