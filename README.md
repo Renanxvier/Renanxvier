@@ -1,4 +1,4 @@
-<h1 align="center">Eu sou o Renan Xavier</h1>
+<h1 align="center">Eu sou Renan Xavier</h1>
 
 <p align="center">
   <b>Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Católica de Brasilia (UCB)</b><br>
