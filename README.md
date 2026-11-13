@@ -43,6 +43,3 @@
 ### 📜 Certificações e Cursos
 * **Git e GitHub** — Universidade Católica de Brasília (UCB)
 * **Introdução ao Azure** — Microsoft Azure Cloud Computing
-
----
-<p align="center"><i>"Construindo código limpo e escalável todos os dias."</i></p>
