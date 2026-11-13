@@ -1,4 +1,4 @@
-<h1 align="center">Olá, recrutador! 👋 Eu sou o Renan Xavier</h1>
+<h1 align="center">Eu sou o Renan Xavier</h1>
 
 <p align="center">
   <b>Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Católica de Brasilia (UCB)</b><br>
@@ -6,14 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-usuario">
+  <a href="https://www.linkedin.com/in/renanxcarmo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</p>
-
+>
 ---
 
 ### 🚀 Sobre Mim
