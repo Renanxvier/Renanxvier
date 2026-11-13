@@ -36,7 +36,7 @@
 
 * **[syncedcorp-lootsync](https://github.com/Renanxvier/syncedcorp-lootsync):** Sistema de gestão de catálogo e versões de assets digitais desenvolvido com Python, FastAPI, SQLite e interface web.
 * **[mutiny-tactics](https://github.com/Renanxvier/mutiny-tactics):** Jogo de estratégia 2D estilo top-down desenvolvido em Python utilizando a biblioteca `pygame-ce`.
-* **[Moneytrack](https://github.com/Renanxvier/Moneytrack):** Aplicação web de finanças pessoais desenvolvida com HTML, CSS e JavaScript para controle de receitas, despesas e gráficos financeiros.
+* **[moneytrack-sync](https://github.com/Renanxvier/moneytrack-sync):** Aplicação web de finanças pessoais desenvolvida com HTML, CSS e JavaScript para controle de receitas, despesas e gráficos financeiros.
 
 ---
 
